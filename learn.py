@@ -1,0 +1,7 @@
+print("Hello Welcome to Python Programming")
+user_input=int(input("Enter your roll_no: "))
+user1=str(input())
+user2=float(input())
+user3=round(float(input()))
+user4=format(int(input()))
+print(user_input,user1,user2,user3,user4)
